@@ -20,4 +20,6 @@ echo $CLASSPATH
 
 $RUNTIME -classpath ${CLASSPATH} $MAIN  $1 $2 $3 $4 $5 $6 
 
+echo "this is a new scprit"
+
 
